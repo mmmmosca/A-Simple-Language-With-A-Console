@@ -15,5 +15,4 @@ label: it allows you to give a name to a value in the memory
 
 ## Future updates
 * Conditional statements
-* 
 * Loops
